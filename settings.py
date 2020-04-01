@@ -9,6 +9,7 @@ class Settings:
         # Ship settings
         self.ship_speed_factor = 0.5
         self.ship_size = (50, 70)
+        self.ship_limit = 3
 
         # Alien settings
         self.alien_speed_factor = 1
